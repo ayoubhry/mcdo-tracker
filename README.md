@@ -115,15 +115,15 @@ Puis ouvrir **http://localhost:5000** dans ton navigateur.
 
 ```
 mcdo-caen/
-├── api_server.py       # Serveur Flask + endpoints scraping
+├── api_server.py       # Serveur : Flask + endpoints scraping
 ├── browser.py          # Gestion Playwright (navigation, cookies, scroll, CDP)
-├── js_scripts.py       # Scripts JavaScript injectés (extraction menu & horaires)
-├── display.py          # Fonctions d'affichage console (mode CLI legacy)
-├── restaurants.json    # Données statiques des restaurants (coords, statuts)
+├── js_scripts.py       # Scripts JS injectés (extraction menu & horaires)
+├── display.py          # Fonctions d'affichage console
+├── restaurants.json    # Données statiques des restaurants
 ├── index.html          # Interface web complète (carte + panneau + recherche)
-├── mcdonalds.png           # Icône marqueur — ouvert
-├── mcdonalds-closed.png    # Icône marqueur — fermé
-└── mcdonalds-unavail.png   # Icône marqueur — indisponible / absent
+├── mcdonalds.png           # Icône — ouvert
+├── mcdonalds-closed.png    # Icône — fermé
+└── mcdonalds-unavail.png   # Icône — indisponible / absent
 ```
 
 ---
