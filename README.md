@@ -1,4 +1,4 @@
-# 🍔 McDo Caen — Menu Explorer
+# 🍔 McDonald's Caen — Menu Explorer
 
 Une interface web locale qui **scrappe en temps réel les menus UberEats** des McDonald's de l'agglomération caennaise et les affiche sur une carte interactive.
 
