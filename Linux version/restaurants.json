@@ -1,0 +1,82 @@
+[
+  {
+    "id": "fr_caen_cote_de_nacre",
+    "name": "McDonald's Caen Côte de Nacre",
+    "address": "Centre Commercial Côte de Nacre, Bd Maréchal Juin, 14000 Caen",
+    "lat": 49.2085,
+    "lng": -0.3625,
+    "open": true,
+    "unavailable": [],
+    "status": "open"
+  },
+  {
+    "id": "fr_caen_centre",
+    "name": "McDonald's Caen Centre",
+    "address": "9 Rue Paul Doumer, 14000 Caen",
+    "lat": 49.1825,
+    "lng": -0.3645,
+    "open": true,
+    "unavailable": [],
+    "status": "open"
+  },
+  {
+    "id": "fr_herouville",
+    "name": "McDonald's Hérouville-Saint-Clair",
+    "address": "Centre Commercial Saint-Clair, 14200 Hérouville-Saint-Clair",
+    "lat": 49.2052,
+    "lng": -0.3248,
+    "open": true,
+    "unavailable": [],
+    "status": "open"
+  },
+  {
+    "id": "fr_mondeville",
+    "name": "McDonald's Mondeville",
+    "address": "Centre Commercial Mondeville 2, 14120 Mondeville",
+    "lat": 49.1655,
+    "lng": -0.3115,
+    "open": true,
+    "unavailable": [],
+    "status": "open"
+  },
+  {
+    "id": "fr_ifs",
+    "name": "McDonald's Ifs",
+    "address": "Rue de Rocquancourt, 14123 Ifs",
+    "lat": 49.1398,
+    "lng": -0.3392,
+    "open": true,
+    "unavailable": [],
+    "status": "open"
+  },
+  {
+    "id": "fr_rots",
+    "name": "McDonald's Rots",
+    "address": "ZAC de la Bonneterie, 14980 Rots",
+    "lat": 49.2115,
+    "lng": -0.4435,
+    "open": true,
+    "unavailable": [],
+    "status": "open"
+  },
+  {
+    "id": "fr_ouistreham",
+    "name": "McDonald's Ouistreham",
+    "address": "Route de Caen, 14150 Ouistreham",
+    "lat": 49.271,
+    "lng": -0.2675,
+    "open": true,
+    "unavailable": [],
+    "status": "open"
+  },
+  {
+    "id": "fr_carpiquet",
+    "name": "McDonald's Carpiquet",
+    "address": "Rue des Monts, 14650 Carpiquet",
+    "lat": 49.1852,
+    "lng": -0.4285,
+    "open": true,
+    "unavailable": [],
+    "status": "open"
+  }
+]
