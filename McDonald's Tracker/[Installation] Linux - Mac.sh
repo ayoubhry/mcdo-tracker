@@ -1,0 +1,9 @@
+#!/bin/bash
+echo Installation des dependances Python...
+pip3 install flask flask-cors playwright --break-system-packages
+
+echo Installation du navigateur Chromium...
+playwright install chromium
+
+echo Lancement du serveur...
+python3 api_server.py
