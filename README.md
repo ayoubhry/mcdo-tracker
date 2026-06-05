@@ -7,6 +7,11 @@ Une interface web locale qui **scrappe en temps réel les menus UberEats** des M
 ## 📸 Aperçu
 
 ### Chargement au démarrage
+> Lancement de l'installation des dépendance nécessaire, après installation clique sur l'adresse IP:5000.
+
+![Chargement des menus](screenshots/00-cmd.png)
+
+### Chargement au démarrage
 > Tous les menus se chargent automatiquement au lancement, restaurant par restaurant.
 
 ![Chargement des menus](screenshots/01-loading.png)
