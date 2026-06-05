@@ -6,7 +6,7 @@ Une interface web locale qui **scrappe en temps réel les menus UberEats** des M
 
 ## 📸 Aperçu
 
-### Chargement au démarrage
+### Installation Python
 > Lancement de l'installation des dépendance nécessaire, après installation clique sur l'adresse IP:5000.
 
 ![Chargement des menus](screenshots/00-cmd.png)
